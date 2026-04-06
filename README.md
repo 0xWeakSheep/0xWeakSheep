@@ -1,1 +1,1 @@
-# _~~Be faster, or you will be left in pending.~~_
+# _Be faster, or you will be left in ~~pending~~._
